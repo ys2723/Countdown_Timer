@@ -1,0 +1,57 @@
+body{
+    background-color: bisque;
+    font-family: 'Roboto', 'sans-serif';
+    margin: 0;
+}
+
+p{
+    background-color: rgb(190, 123, 35);
+    display: inline-flex;
+    border-radius: 80px;
+
+    /* Below 2 lines would get the content in the center of the box*/
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    height: 200px;
+    font-size: 140px;
+    margin: 0;
+    
+    /* The 4 lines below would make the code responsive in x axis as well as y axis. BTW today's date is 29 April 2023. Time: 1220 hrs*/
+    position: absolute;
+    top: 50%;
+    left: 50%; 
+    transform: translate(-50%,-50%);
+}
+
+
+/* Will make the below code work someday ;(  BTW today is 29 April 2023. Time 1311 hrs */
+
+
+/* .input-box{
+    background-color: rgb(190, 123, 35);
+    width: 650px;
+    height: 100px;
+    border-radius: 80px;
+
+    font-size: 30px;
+
+    position: absolute;
+    top: 70px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.Enter-number{
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+.input-area{
+    padding-left: 50px;
+}
+
+.boo{
+    background-color: bisque;
+    height: 30px;
+} */
