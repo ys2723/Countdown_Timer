@@ -6,6 +6,8 @@ const countdownEl = document.getElementById('countdown');
 
 setInterval(updateCountdown, 1000);
 
+// The below function updates the timer 
+
 function updateCountdown(){
     const minutes = Math.floor(time/60);
     let seconds = time % 60;
