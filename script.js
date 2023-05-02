@@ -1,3 +1,5 @@
+// Below line takes input as prompt from the user
+
 let startingMinutes = prompt("Enter number of minutes for timer: ");
 
 let time = startingMinutes * 60;
