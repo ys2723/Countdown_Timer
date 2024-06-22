@@ -15,5 +15,5 @@ Link: https://ys2723.github.io/Countdown_Timer/
 # Project Information
 Team Size: 1 <br/>
 Project Start Date: 29 April 2023 <br/>
-Project End Date: 1 May 2023 <br/>
+Project End Date: 29 April 2023 <br/>
 Team Member(s): Yash Tripathi.
