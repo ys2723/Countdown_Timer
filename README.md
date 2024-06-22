@@ -5,7 +5,7 @@ Link: https://ys2723.github.io/Countdown_Timer/
 
 ## User Promped to input number: 
 
-![Prompt to enter Minutes](https://media.discordapp.net/attachments/806881514389766184/1101777722784612383/Screenshot_4024.png?width=1177&height=662)
+![Prompt to enter Minutes](https://i.postimg.cc/fTr0b7VL/Screenshot-16863.png)
 
 ## Countdown Timer starts from that number: 
 
