@@ -9,4 +9,4 @@ Link: https://ys2723.github.io/Countdown_Timer/
 
 ## Countdown Timer starts from that number: 
 
-![Countdown starts](https://media.discordapp.net/attachments/806881514389766184/1101777991203299348/Screenshot_4025.png?width=1177&height=662)
+![Countdown starts](https://i.postimg.cc/rFx3gj50/Screenshot-16866.png)
