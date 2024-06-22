@@ -13,3 +13,4 @@ Link: https://ys2723.github.io/Countdown_Timer/
 
 ##
 # Project Information
+Team Size: 1 <br/>
